@@ -1,0 +1,19 @@
+INT true 
+insertHead 1 true
+insertHead 2 true
+insertHead 3 true
+STRING true 
+insertTail lazy true
+insertHead lazy false
+printList lazy
+insertAfter dog. lazy false
+insertTail dog. true
+insertHead fox true
+insertHead brown true
+insertHead quick true
+insertHead The true
+insertAfter fox over true
+insertAfter fox jumped true
+insertAfter over the true
+size 9
+printList The quick brown fox jumped over the lazy dog.
